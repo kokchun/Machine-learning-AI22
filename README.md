@@ -13,6 +13,7 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 [ghr]: https://github.com/kokchun/Machine-learning-AI22
 
+---
 ## Schedule
 
 This course mostly focuses on supervised learning, both regression and classification, but has small parts in unsupervised learning, dimension reductions and artificial neural networks.
@@ -39,6 +40,7 @@ This course mostly focuses on supervised learning, both regression and classific
 [w8]: https://github.com/kokchun/Machine-learning-AI22/blob/main/Resources/week8.md
 [w9]: https://github.com/kokchun/Machine-learning-AI22/blob/main/Resources/week9.md
 
+---
 ## Resources
 
 Many exercises and lecture materials are in form of Jupyter notebooks with **.ipynb** extensions. Sometimes GitHub may not load them correctly for preview, then you can use [Open in Colab][colab_addon], which is an addon in Chrome to open the notebook in Colab. Alternatively, you can go to [jupyter nbviewer][nbviewer], and paste the link to the notebook for previewing. When working with exercises it is important that you create your own notebooks (.ipynb) or script files (.py).
