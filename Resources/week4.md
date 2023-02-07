@@ -2,6 +2,7 @@
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
 
+---
 ## Video guides :video_camera:
 
 **SVM:**
@@ -15,11 +16,13 @@
 - [Decision tree classification - Normalized Nerd](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
 - [Decision tree regression - Normalized Nerd](https://www.youtube.com/watch?v=UhY5vPfQIrA&list=RDCMUC7Fs-Fdpe0I8GYg3lboEuXw&index=3)
 
+---
 ## Lecture notes :book:
 - [GridsearchCV](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L7-gridsearchCV.ipynb)
 - [SVM](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L8-SVM.ipynb)
 - [Decision tree](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L9-Decision_tree.ipynb)
 
+---
 ## Theory :book:
 
 **Gridsearch and pipeline:** 
@@ -46,6 +49,6 @@
 - [Lecture slides chapter 8 - ISLR](https://hastie.su.domains/ISLR2/Slides/Ch8_Tree_Based_Methods.pdf)
 - [ISLRv2 pp. 327-352](https://www.statlearning.com/)
 
-
+---
 ## Exercises :running:
 Work with the lab

@@ -2,16 +2,19 @@
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
 
+---
 ## Video guides :video_camera:
 
 - [Random forest](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
 - [TF-IDF](https://www.youtube.com/watch?v=4vT4fzjkGCQ)
 
+---
 ## Lecture notes :book:
 - [Random forest](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec10-RandomForest.ipynb)
 - [NLP intro](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec11-NLP_intro.ipynb)
 - [Naive Bayes](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec12-Naive_bayes.ipynb)
 
+---
 ## Theory :book:
 
 **Random forest**
@@ -41,5 +44,6 @@
 - [Complement Naive Bayes - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html#sklearn.naive_bayes.ComplementNB)
 - [VotingClassifier - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html)
 
+---
 ## Exercises :running:
 Work with the lab

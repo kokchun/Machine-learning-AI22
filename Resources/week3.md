@@ -2,6 +2,7 @@
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
 
+---
 ## Video guides :video_camera:
 
 - [Logistic regression - classification - Andrew Ng](https://www.youtube.com/watch?v=-la3q9d7AKQ)
@@ -10,11 +11,13 @@
 - [Logistic regression cost function - Andrew Ng](https://www.youtube.com/watch?v=HIQlmHxI6-0)
 - [KNN - simplilearn](https://www.youtube.com/watch?v=4HKqjENq9OU&t=4s)
 
+---
 ## Lecture notes :book:
 
 - [Logistic regression lecture note](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L5-Logistic-regression.ipynb)
 - [KNN lecture note](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L6-KNN.ipynb)
 
+---
 ## Theory :book:
 
 - [Statistical classification - wikipedia](https://en.wikipedia.org/wiki/Statistical_classification)
@@ -32,6 +35,7 @@ KNN
 - [KNeighborClassifier - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - [Similarity measure - wikipedia](https://en.wikipedia.org/wiki/Similarity_measure)
 
+---
 ## Exercises :running:
 - [Logistic regression exercises](https://github.com/kokchun/Machine-learning-AI22/blob/main/Exercises/E04_logistic_regression.ipynb)
 - [KNN exercises](https://github.com/kokchun/Machine-learning-AI22/blob/main/Exercises/E05_KNN.ipynb)

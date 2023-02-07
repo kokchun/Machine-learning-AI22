@@ -2,6 +2,7 @@
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
 
+---
 ## Video guides :video_camera:
 - [Clustering, unsupervised learning - Andrew Ng](https://www.youtube.com/watch?v=Ev8YbxPu_bQ)
 - [k-means - Andrew Ng](https://www.youtube.com/watch?v=hDmNF9JG3lo)
@@ -9,13 +10,14 @@
 - [Dimension reduction - data compression - Andrew Ng](https://www.youtube.com/watch?v=Zbr5hyJNGCs)
 - [Dimension reduction - data visualization - Andrew Ng](https://www.youtube.com/watch?v=cnCzY5M3txk)
 
-
+---
 ## Lecture notes :book:
 
 - [k-means lecture](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec13-KMeans.ipynb)
 - [Color quantization with k-means lecture](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec13.1-KMeans_color.ipynb)
 - [PCA lecture](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec14-PCA.ipynb)
 
+---
 ## Theory :book:
 
 Unsupervised learning
@@ -39,6 +41,7 @@ PCA - Principal component analysis
 - [PCA user guide - sklearn](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
 - [PCA - ISLR pp. 497-516](https://www.statlearning.com/)
 
+---
 ## Exercises :running:
 
 Work with the lab
