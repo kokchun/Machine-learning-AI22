@@ -29,8 +29,8 @@
 ---
 ## Lecture notes :book:
 
-- [Linear regression](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lectures/L0-Linear_regression.ipynb)
-- [Gradient descent](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lectures/L1-Gradient_descent.ipynb)
+- [Linear regression](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L0-Linear_regression.ipynb)
+- [Gradient descent](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L1-Gradient_descent.ipynb)
 
 ---
 ## Theory :book:

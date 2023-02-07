@@ -2,14 +2,22 @@
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
 
+---
 ## Video guides :video_camera:
 - [Cross-validation](https://www.youtube.com/watch?v=TIgfjmp-4BA)
+- [Overfitting - ISLR](https://www.youtube.com/watch?v=HndOzII4jzs)
+- [Regularization overfitting - Andrew Ng](https://www.youtube.com/watch?v=u73PU6Qwl1I)
+- [Regularization cost function - Andrew Ng](https://www.youtube.com/watch?v=KvtGD37Rm5I)
+- [Regularization linear regression - Andrew Ng](https://www.youtube.com/watch?v=qbvRdrd0yJ8)
+- [Bias-variance tradeoff - professor Ryan](https://www.youtube.com/watch?v=1JWpXHgqj54)
 
+---
 ## Lecture notes :book:
-- [Scikit-learn](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lectures/L2-scikit-learn.ipynb)
-- [Overfitting & underfitting](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lectures/L3-overfitting-underfitting.ipynb)
-- [Regularized linear models](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lectures/L3-overfitting-underfitting.ipynb)
+- [Scikit-learn](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L2-scikit-learn.ipynb)
+- [Overfitting & underfitting](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
+- [Regularized linear models](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
 
+---
 ## Theory :book:
 
 References for lecture - Sklearn
@@ -41,6 +49,7 @@ References for lecture - Regularized linear models
 - [Scoring parameter sklearn](https://scikit-learn.org/stable/modules/model_evaluation.html)
 - [ISLRv2 pp 198-205](https://www.statlearning.com/)
 
+---
 ## Exercises :running:
 
 - [scikit-learn exercises](https://github.com/kokchun/Machine-learning-AI22/blob/main/Exercises/E02_sklearn.ipynb)

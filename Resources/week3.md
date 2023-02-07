@@ -8,12 +8,12 @@
 - [Logistic regression hypothesis - Andrew Ng](https://www.youtube.com/watch?v=t1IT5hZfS48)
 - [Logistic regression decision boundary - Andrew Ng](https://www.youtube.com/watch?v=F_VG4LNjZZw)
 - [Logistic regression cost function - Andrew Ng](https://www.youtube.com/watch?v=HIQlmHxI6-0)
-- [KNN](https://www.youtube.com/watch?v=4HKqjENq9OU&t=4s)
+- [KNN - simplilearn](https://www.youtube.com/watch?v=4HKqjENq9OU&t=4s)
 
 ## Lecture notes :book:
 
-- [Logistic regression lecture note](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lectures/L5-Logistic-regression.ipynb)
-- [KNN lecture note](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lectures/L6-KNN.ipynb)
+- [Logistic regression lecture note](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L5-Logistic-regression.ipynb)
+- [KNN lecture note](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L6-KNN.ipynb)
 
 ## Theory :book:
 
