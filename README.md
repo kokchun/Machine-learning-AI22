@@ -22,13 +22,13 @@ This course mostly focuses on supervised learning, both regression and classific
 | :------: | ----------------------------------------------------------- |
 | [7][w1]  | **Regression** Linear, polynomial, gradient descent         |
 | [8][w2]  | Overfitting, underfitting, regularization, cross-validation |
-| [9][w3]  | **Classification:** Logistic regression, KNN, scrum         |
+| [9][w3]  | **Classification:** Logistic regression, KNN                |
 | [10][w4] | SVM, Descision tree, **lab1**                               |
 | [11][w5] | Random forest, NLP intro, Naive bayes, **lab1**             |
 | [12][w6] | **Unsupervised:** K-means, PCA **lab1**                     |
 | [13][w7] | ANN intro, Repetition                                       |
 | [14][w8] | Repetition, Exam (wednesday)                                |
-| [15][w9] | Apply for LIA, self-study                                   |
+| [15][w9] | Apply for LIA, self-study, re-exams on other courses        |
 
 [w1]: https://github.com/kokchun/Machine-learning-AI22/blob/main/Resources/week1.md
 [w2]: https://github.com/kokchun/Machine-learning-AI22/blob/main/Resources/week2.md
