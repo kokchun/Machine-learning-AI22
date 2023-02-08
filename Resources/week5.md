@@ -43,6 +43,7 @@
 - [Multinomial Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB)
 - [Complement Naive Bayes - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html#sklearn.naive_bayes.ComplementNB)
 - [VotingClassifier - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html)
+- [ISLRv2 pp 153-158](https://www.statlearning.com/)
 
 ---
 ## Exercises :running:

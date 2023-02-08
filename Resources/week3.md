@@ -31,6 +31,7 @@ Logistic regression
 - [Logistic regression - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
 KNN
+- [ISLRv2 pp 39-42](https://www.statlearning.com/)
 - [KNN - wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 - [KNeighborClassifier - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - [Similarity measure - wikipedia](https://en.wikipedia.org/wiki/Similarity_measure)
