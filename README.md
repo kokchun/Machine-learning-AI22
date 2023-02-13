@@ -1,7 +1,5 @@
 # Machine learning (AI22)
 
-## THIS IS A DRAFT - NOT FINISHED YET! 
-
 This is a course with focus of learning concepts in machine learning using **scikit-learn**. This course will build upon prior skills in:
 
 - pandas
