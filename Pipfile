@@ -10,6 +10,7 @@ numpy = "*"
 matplotlib = "*"
 pandas = "*"
 black = "*"
+seaborn = "*"
 
 [dev-packages]
 
