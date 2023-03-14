@@ -1,11 +1,26 @@
-from sklearn.datasets import make_blobs
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib import cm
-from sklearn import svm
+from sklearn.metrics import (
+    classification_report,
+    confusion_matrix,
+    ConfusionMatrixDisplay,
+)
 
 
-def train_test_split(X, y, train_fraction=.7, seed=42, replace=False):
+def evaluate_classification(y_test, y_pred, labels=[]):
+    print(classification_report(y_test, y_pred, labels = labels))
+    cm = confusion_matrix(y_test, y_pred)
+    ConfusionMatrixDisplay(cm, display_labels=labels).plot()
+
+
+
+def print_shapes(X_train, X_test, y_train, y_test):
+    print(
+        f"{X_train.shape = }\n{X_test.shape = }\n{y_train.shape = }\n{y_test.shape = }\n"
+    )
+
+
+def train_test_split(X, y, train_fraction=0.7, seed=42, replace=False):
     """Splits up X, y to training and testing data
     Parameters
     ----------
@@ -37,6 +52,7 @@ def train_test_split(X, y, train_fraction=.7, seed=42, replace=False):
     y_test = y[X_test.index]
 
     return X_train, X_test, y_train, y_test
+
 
 # code from
 # https://scikit-learn.org/stable/auto_examples/svm/plot_separating_hyperplane.html
@@ -70,7 +86,13 @@ def plot_svm_margins(clf, X, y):
 
     # plot decision boundary and margins
     ax.contour(
-        XX, YY, Z, colors="k", levels=[-1, 0, 1], alpha=0.5, linestyles=["--", "-", "--"]
+        XX,
+        YY,
+        Z,
+        colors="k",
+        levels=[-1, 0, 1],
+        alpha=0.5,
+        linestyles=["--", "-", "--"],
     )
     # plot support vectors
     ax.scatter(
