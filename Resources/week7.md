@@ -15,6 +15,7 @@
 - [Activation function - wikipedia](https://en.wikipedia.org/wiki/Activation_function)
 - [Multilayer perceptron (MLP) - wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 - [Rectifier (neural networks) - wikipedia](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
+- [Biological neuron model - wikipedia](https://en.wikipedia.org/wiki/Biological_neuron_model)
 
 ---
 ## Exercises :running:
